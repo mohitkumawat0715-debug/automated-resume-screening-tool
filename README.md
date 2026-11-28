@@ -32,7 +32,6 @@ Featuring a Python **FastAPI** backend, a **Next.js** recruiter dashboard, and a
 10. [REST API Documentation & Swagger](#rest-api-documentation--swagger)
 11. [Synthetic Dataset & Expected Baseline Results](#synthetic-dataset--expected-baseline-results)
 12. [Inspecting the Exported CSV Report](#inspecting-the-exported-csv-report)
-13. [GitHub Setup, Commit Plan & Portfolio Checklist](#github-setup-commit-plan--portfolio-checklist)
 
 ---
 
